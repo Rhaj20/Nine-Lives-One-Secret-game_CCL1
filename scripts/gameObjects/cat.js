@@ -43,7 +43,7 @@ class Cat extends BaseGameObject {
 
     constructor(x, y, width, height) {
         super(x, y, width, height);
-        this.loadImagesFromSpritesheet("./images/Cat_Walk.png", 7, 2);
+        this.loadImagesFromSpritesheet("./Nine-Lives-One-Secret-game_CCL1/images/Cat_Walk.png", 7, 2);
     }
 }
 

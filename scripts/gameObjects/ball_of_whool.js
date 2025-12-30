@@ -26,7 +26,7 @@ class Whool extends BaseGameObject {
 
     constructor(x, y, width, height){
         super(x, y, width, height);
-        this.loadImages(["./images/ball_of_whool.png"]);
+        this.loadImages(["./Nine-Lives-One-Secret-game_CCL1/images/ball_of_whool.png"]);
     }
 }
 
