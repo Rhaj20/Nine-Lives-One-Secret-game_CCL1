@@ -14,7 +14,7 @@ class Pans extends BaseGameObject{
 
     constructor (x, y, width, height) {
         super(x, y, width, height);
-        this.loadImages(["../images/pan.png"]);
+        this.loadImages(["./images/pan.png"]);
     }
 }
 

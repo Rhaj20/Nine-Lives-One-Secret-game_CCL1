@@ -14,7 +14,7 @@ class Pot extends BaseGameObject{
 
     constructor (x, y, width, height) {
         super(x, y, width, height);
-        this.loadImages(["../images/pot.png"]);
+        this.loadImages(["./images/pot.png"]);
     }
 }
 

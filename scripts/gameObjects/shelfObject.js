@@ -16,7 +16,7 @@ class ShelfObject extends BaseGameObject {
         super(x, y, width, height);
         // this.width = 180;
         // this.height = 60;
-        this.loadImages(["../images/shelf2.PNG"]);
+        this.loadImages(["./images/shelf2.PNG"]);
     }
 }
 

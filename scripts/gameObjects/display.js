@@ -13,7 +13,7 @@ class Display extends BaseGameObject {
 
     constructor (x, y, width, height) {
         super(x, y, width, height);
-        this.loadImages(["../images/display2.png"]);
+        this.loadImages(["./images/display2.png"]);
     }
 }
 

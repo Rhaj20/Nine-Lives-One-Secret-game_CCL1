@@ -14,7 +14,7 @@ class Cup extends BaseGameObject{
 
     constructor (x, y, width, height) {
         super(x, y, width, height);
-        this.loadImages(["../images/cup1.png"]);
+        this.loadImages(["./images/cup1.png"]);
     }
 }
 

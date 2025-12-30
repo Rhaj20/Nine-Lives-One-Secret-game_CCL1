@@ -26,7 +26,7 @@ class Mouse extends BaseGameObject {
 
     constructor(x, y, width, height){
         super(x, y, width, height);
-        this.loadImages(["../images/mouse.png"]);
+        this.loadImages(["./images/mouse.png"]);
     }
 }
 

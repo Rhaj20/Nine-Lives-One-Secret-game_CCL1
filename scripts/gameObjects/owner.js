@@ -100,7 +100,7 @@ class Owner extends BaseGameObject {
 
     constructor(x, y, width, height) {
         super(x, y, width, height);
-        let images = ["../images/Left_Owner_1.png", "../images/Left_Owner_2.png", "../images/Left_Owner_3.PNG", "../images/Right_Owner_1.png", "../images/Right_Owner_2.png", "../images/Right_Owner_3.PNG"];
+        let images = ["./images/Left_Owner_1.png", "./images/Left_Owner_2.png", "./images/Left_Owner_3.PNG", "./images/Right_Owner_1.png", "./images/Right_Owner_2.png", "./images/Right_Owner_3.PNG"];
         this.loadImages(images);
     }
 }
