@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 **Play the Game**
-[Click here to play the game!](https://rhaj20.github.io/CCL/) 
+[Click here to play the game!]([https://rhaj20.github.io/CCL/](https://rhaj20.github.io/Nine-Lives-One-Secret-game_CCL1/)) 
 
 ---
 
