@@ -35,7 +35,7 @@ body{
     top: 0;
     width: 1050px; 
     height: 1050px;
-    background-image: url("./CCL/images/startImage.png");
+    background-image: url("./images/startImage.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
