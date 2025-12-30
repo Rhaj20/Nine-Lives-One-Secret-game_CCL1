@@ -11,7 +11,7 @@ class Door extends BaseGameObject{
 
     constructor (x, y, width, height) {
         super(x, y, width, height);
-        this.loadImages(["./Nine-Lives-One-Secret-game_CCL1/images/door.PNG"]);
+        this.loadImages(["/Nine-Lives-One-Secret-game_CCL1/images/door.PNG"]);
     }
 }
 

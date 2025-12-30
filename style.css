@@ -20,7 +20,7 @@ body{
     top: 0;
     width: 3385px; 
     height: 700px;
-    background-image: url("./Nine-Lives-One-Secret-game_CCL1/images/background.png");
+    background-image: url("/Nine-Lives-One-Secret-game_CCL1/images/background.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -35,7 +35,7 @@ body{
     top: 0;
     width: 1050px; 
     height: 1050px;
-    background-image: url("./Nine-Lives-One-Secret-game_CCL1/images/startImage.png");
+    background-image: url("/Nine-Lives-One-Secret-game_CCL1/images/startImage.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -105,7 +105,7 @@ body{
     height: 300px;
     width: 500px;
     transform: translate(100%, 50%); 
-    background-image: url("./Nine-Lives-One-Secret-game_CCL1/images/losing_screen.jpg");
+    background-image: url("/Nine-Lives-One-Secret-game_CCL1/images/losing_screen.jpg");
 } 
 
 #lost {
@@ -135,7 +135,7 @@ body{
     height: 300px;
     width: 500px;
     transform: translate(100%, 50%); 
-    background-image: url("./Nine-Lives-One-Secret-game_CCL1/images/winning_screen.jpg");
+    background-image: url("/Nine-Lives-One-Secret-game_CCL1/images/winning_screen.jpg");
 } 
 
 #won {

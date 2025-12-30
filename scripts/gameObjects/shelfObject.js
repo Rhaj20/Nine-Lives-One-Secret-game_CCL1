@@ -16,7 +16,7 @@ class ShelfObject extends BaseGameObject {
         super(x, y, width, height);
         // this.width = 180;
         // this.height = 60;
-        this.loadImages(["./Nine-Lives-One-Secret-game_CCL1/images/shelf2.PNG"]);
+        this.loadImages(["/Nine-Lives-One-Secret-game_CCL1/images/shelf2.PNG"]);
     }
 }
 
