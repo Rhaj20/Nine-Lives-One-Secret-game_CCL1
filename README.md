@@ -15,7 +15,7 @@
 
 ### Menu:
 <div style="text-align: center;">
-  <img src="startscreen.png" alt="Start screen" width="600">
+  <img src="images/startscreen.png" alt="Start screen" width="600">
   <p>*Figure 1: Start screen of game.*</p>
 </div>
 
@@ -23,15 +23,15 @@
 
 ### Main Gameplay:
 <div style="text-align: center;">
-  <img src="gameplay1.png" alt="Gameplay Screenshot 1" width="600">
+  <img src="images/gameplay1.png" alt="Gameplay Screenshot 1" width="600">
   <p>*Figure 2: Example of gameplay in action.*</p>
 </div>
 <div style="text-align: center;">
-  <img src="gameplay3.png" alt="Gameplay Screenshot 3" width="600">
+  <img src="images/gameplay3.png" alt="Gameplay Screenshot 3" width="600">
   <p>*Figure 3: Example of gameplay in action.*</p>
 </div>
 <div style="text-align: center;">
-  <img src="gameplay2.png" alt="Gameplay Screenshot 2" width="600">
+  <img src="images/gameplay2.png" alt="Gameplay Screenshot 2" width="600">
   <p>*Figure 4: Example of gameplay in action.*</p>
 </div>
 ---
